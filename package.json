@@ -1,0 +1,12 @@
+{
+  "name": "projeto-ci",
+  "version": "1.0.0",
+  "description": "Projeto simples para testar CI/CD",
+  "main": "script.js",
+  "scripts": {
+    "build": "echo Build realizado com sucesso",
+    "start": "echo Projeto iniciado"
+  },
+  "author": "Seu nome",
+  "license": "MIT"
+}

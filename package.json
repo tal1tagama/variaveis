@@ -1,12 +1,11 @@
 {
-  "name": "projeto-ci",
+  "name": "variaveis-ci",
   "version": "1.0.0",
-  "description": "Projeto simples para testar CI/CD",
-  "main": "script.js",
+  "description": "Projeto para exercício de variáveis no CI",
+  "main": "index.js",
   "scripts": {
-    "build": "echo Build realizado com sucesso",
-    "start": "echo Projeto iniciado"
+    "build": "CI=false echo Build executado com sucesso"
   },
-  "author": "Seu nome",
+  "author": "Talita",
   "license": "MIT"
 }

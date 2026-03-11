@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Projeto para exercício de variáveis no CI",
   "main": "index.js",
-  "scripts": {
-    "build": "CI=false echo Build executado com sucesso"
-  },
+"scripts": {
+  "build": "CI=false echo Build executado com sucesso"
+},
   "author": "Talita",
   "license": "MIT"
 }
